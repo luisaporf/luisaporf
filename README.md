@@ -9,10 +9,15 @@ Atualmente, atuo como **pesquisadora de dados e inteligência artificial no Spee
 
 ---
 
+📫 **Contato**  
+[LinkedIn](https://www.linkedin.com/in/luísa-gontijo-porfírio)
+
+---
+
 ### Áreas de interesse
 
-- Aprendizado de máquina (clustering e métodos não supervisionados)  
-- Ciência de dados aplicada à saúde  
+- Aprendizado de máquina 
+- Ciência de dados
 - Desenvolvimento backend com Node.js e TypeScript  
 - Pesquisa acadêmica e experimentação prática  
 
@@ -35,7 +40,4 @@ Atualmente, atuo como **pesquisadora de dados e inteligência artificial no Spee
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
----
 
-📫 **Contato**  
-[LinkedIn](https://www.linkedin.com/in/luísa-gontijo-porfírio)

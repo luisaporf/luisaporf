@@ -5,8 +5,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Atualmente, atuo como **pesquisadora de dados e inteligência artificial no Speed Lab (UFMG)**, com foco em aplicações práticas de **aprendizado de máquina** e **análise de dados médicos**.  
-Tenho também experiência com **desenvolvimento backend** utilizando **Node.js**, **TypeScript** e **bancos de dados relacionais**, além de **integração de APIs RESTful** e **versionamento com Git**.
+Atualmente, atuo como **pesquisadora de dados e inteligência artificial no Speed Lab (UFMG)**, com foco em aplicações práticas de **aprendizado de máquina** e **análise de dados médicos**. Tenho também experiência com **desenvolvimento backend** utilizando **Node.js**, **TypeScript** e **bancos de dados relacionais**, além de **integração de APIs RESTful** e **versionamento com Git**.
 
 ---
 
@@ -35,6 +34,7 @@ Tenho também experiência com **desenvolvimento backend** utilizando **Node.js*
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
+
 ---
 
 📫 **Contato**  
